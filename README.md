@@ -28,18 +28,23 @@ Software:
 2. Public Class banking_main
 
     i. Void main()
+    
     ii. Void init_var()
     
 3. Public class login
 
     i. Int Existing_User(…)
-    ii. Void register_user()
+    
+    ii. Void register_user(…)
+    
     iii. String encrypt(…)
+    
     iv. String Decrypt(…)
     
 4. Public class transactions
 
     i. Void Deposit(…)
+    
     ii. Void Withdraw(…)
     
 5. Public class transfer
